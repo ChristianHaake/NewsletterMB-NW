@@ -1,16 +1,5 @@
----
-name: Newsletter von der Medienberatung Nord-West - Issue #2
-type: article
-description:
-date: 2023-05-04
-source: https://medienberatungnordwest.substack.com/p/newsletter-von-der-medienberatung-nord-west-issue-2-640751
-status: todo
-link:
-
----
-
 # Newsletter von der Medienberatung Nord-West - Issue #2
-tags:: #PARA/sources/links/articles
+
 author: Newsletter von der Medienberatung Nord-West
 
 > ## Excerpt
