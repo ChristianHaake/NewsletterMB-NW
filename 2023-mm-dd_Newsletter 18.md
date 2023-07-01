@@ -27,7 +27,11 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 
 - [SELFIE for TEACHERS](https://education.ec.europa.eu/de/selfie-for-teachers) 
   Selfie for Teachers ist eine Initiative der Europäischen Kommission im Bildungsbereich. Es handelt sich um ein Online-Tool, das Lehrkräften die Möglichkeit gibt, ihre digitale Kompetenz zu bewerten und zu verbessern. Das Tool basiert auf einem Selbstbewertungsfragebogen, der verschiedene Aspekte der digitalen Fähigkeiten von Lehrern abdeckt. Durch die Nutzung von Selfie for Teachers können Lehrer ihre Stärken und Schwächen erkennen und gezielte Schulungen erhalten, um ihre digitale Kompetenz weiterzuentwickeln. Ziel der Initiative ist es, Lehrern dabei zu helfen, die Anforderungen der digitalen Welt besser zu bewältigen und ihre Schüler auf die Herausforderungen der modernen Gesellschaft vorzubereiten.
-- 
+- [SWR FakeFinder](https://www.swr.de/unternehmen/medienkompetenz/fakefinder-100.html)
+  Die Webseite stellt die "SWR Fakefinder"-Module vor, die dazu dienen, Nutzer*innen dabei zu helfen, Falschinformationen und Tricks im Internet zu erkennen. Es gibt drei Module, die auf verschiedene Altersgruppen und Kontexte zugeschnitten sind:
+  - Fakefinder Kids: Dieses Modul ist für Kinder ab 8 Jahren und für den (Fern-)Unterricht gedacht. Hierbei prüfen Kinder Videos und Chats aus dem Internet: Sie lernen, Werbung zu erkennen, entdecken, wo im Bild getrickst wird oder wo ein fieser Kettenbrief verschickt wird. Zwei Charaktere, Mona und Henri, unterstützen die Kinder dabei, den Überblick zu behalten​
+  - Fakefinder – Deine News-Challenge: Dieses Modul richtet sich an Personen zwischen 14 und 99 Jahren und ist für die private Herausforderung gedacht. Hier nehmen Nutzer*innen ihren Newsfeed unter die Lupe: Sie lernen zu unterscheiden, welche Meldungen wahr sind, wo manipuliert wurde, wo satirisch übertrieben wurde und woran man das feststellen kann. Die Herausforderung besteht darin, zu entscheiden, ob eine Meldung FAKE, NOT FAKE oder SATIRE ist​​.
+  - Fakefinder School: Dieses Modul ist ab 14 Jahren und für den (Fern-)Unterricht in Sekundarstufe 1 & 2 gedacht. Hierbei geht es um eine Klassen-Challenge in einem individuell zusammengestellten Lernraum. Die Lehrkraft wählt die Aufgaben und beeinflusst Anzahl, Schwierigkeit und Themenkategorien der Fälle. Die Schüler*innen nehmen die Herausforderung an, um zu sehen, ob sie das Zeug zum Klassenbesten haben​.
 
 ## Fortbildungen
 
