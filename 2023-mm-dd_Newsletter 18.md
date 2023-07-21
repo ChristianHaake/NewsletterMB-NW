@@ -10,11 +10,24 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 
 - [ChatGPT: Anfänge einer Revolution](https://www.zeitfuerdieschule.de/materialien/artikel/chatgpt-anfaenge-einer-revolution/)
   Der Artikel mit dem Titel "ChatGPT: Anfänge einer Revolution" auf Zeitfuerdieschule.de beschreibt die bahnbrechende Entwicklung des Sprachmodells ChatGPT. ChatGPT ist ein KI-Modell, das auf der GPT-3.5-Architektur von OpenAI basiert und eine Vielzahl von Sprachanwendungen ermöglicht. Es wird hervorgehoben, dass ChatGPT das Potenzial hat, den Bildungssektor zu revolutionieren, indem es Schülern interaktive und personalisierte Lernmöglichkeiten bietet. Der Artikel betont auch die ethischen Herausforderungen und die Notwendigkeit eines verantwortungsvollen Einsatzes von KI-Technologien im Bildungsbereich.
+- [Lernen und künstliche Intelligenz](https://joschafalck.de/lernen-und-ki/)
+  Der Artikel "Lernen und KI" von Joscha Falck diskutiert das Potenzial der Künstlichen Intelligenz (KI) zur Revolutionierung des Lernens. KI kann personalisierte Lernpfade erstellen und Lernenden helfen, ihre Stärken und Schwächen besser zu verstehen. Der Autor betont jedoch, dass KI das Lernen nicht ersetzen, sondern nur ergänzen kann, da sie menschliche Aspekte wie Engagement, Motivation und soziale Interaktionen nicht ersetzen kann.
+- [Bausteine für Fortbildungen zum Thema Kollaboration und Kultur des Teilens](https://ebildungslabor.de/blog/bausteine-fuer-fortbildungen-zum-thema-kollaboration-und-kultur-des-teilens/)
+
 
 ## Materialtipps
 
 - [Interaktive Lerneinheit: Die Karlsbader Beschlüsse – V. 0.1](https://blog.alexander-koenig.info/2023/05/24/interaktive-lerneinheit-die-karlsbader-beschlusse/)
 - [Interaktive Lerneinheit: Die Potsdamer Konferenz – V. 0.2](https://blog.alexander-koenig.info/2023/05/24/interaktive-lerneinheit-die-potsdamer-konferenz/)
+- [SAP Scenes, Szenen Darstellung mit Karten. Großes kostenloses Material Paket](https://apphaus.sap.com/resource/scenes)
+- [So ist Deutschland auf die Folgen des Klimawandels vorbereitet](https://www.quarks.de/umwelt/klimawandel/anpassung-deutschland-klimafolgen/)
+- [Europa Imperialis – Ein didaktisches Pen & Paper zum Imperialismus](https://diefraumitdemdromedar.de/europa-imperialis-ein-didaktisches-pen-paper-zum-imperialismus/)
+- [Informatik ohne Strom](https://ilearnit.ch/download/InformatikohneStrom.pdf)#
+- [15+ Short films for students with ready-to-use lesson ideas](https://www.bookwidgets.com/blog/2021/09/10-short-films-for-students-with-ready-to-use-lesson-ideas-to-engage-your-students) 
+- [FÜNF GRÜNDE, WARUM DESINFORMATION AUF TIKTOK BESONDERS GUT FUNKTIONIERT](https://www.lmz-bw.de/landesmedienzentrum/aktuelles/aktuelle-meldungen/detailseite?tx_news_pi1%5Bnews%5D=4699&cHash=bfa427b88968c3aaab24a458158e38e9)
+- (Projekt: Balladen zu ungewöhnlichen Schlagzeilen schreiben)[https://schreibecke.blog/2023/07/02/projekt-balladen-zu-ungewohnlichen-schlagzeilen-schreiben/]
+- [Simulationen, Informationen und Tools für den Unterricht in naturwissenschaftlichen Fächern](https://kippenbergs.de)
+- [80 back to school ideas and activities](https://ditchthattextbook.com/back-to-school/)
 
 ### ChatGPT und so weiter
 
@@ -22,6 +35,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - TaskCard: [Leadership im Digital Age](https://www.taskcards.de/#/board/6fe4c472-6cb0-47cf-b417-b4d13c2bf4d0/view/information)
 - [PEER](https://peer-ai-tutor.streamlit.app)
     PEER ist ein Projekt des Lehrstuhls für Human-Centered Technologies for Learning an der TUM. Ziel des Projektes ist es Schüler von der Grundschule bis zur Universität beim Erstellen von Aufsätzen aller Art zu unterstützen. Die Texte werden mit Unterstützung von KI untersucht und es wird ein möglichst konstruktives Feedback erzeugt. Alle Aufsatzdaten werden anonymisiert erfasst, um PEER stetig zu verbessern.
+- [Umgang mit KI am Seminar Stuttgart](https://twitter.com/floriankarsten/status/1673735405483573256/photo/1)
 
 ## Tools und mehr
 
@@ -32,6 +46,11 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
   - Fakefinder Kids: Dieses Modul ist für Kinder ab 8 Jahren und für den (Fern-)Unterricht gedacht. Hierbei prüfen Kinder Videos und Chats aus dem Internet: Sie lernen, Werbung zu erkennen, entdecken, wo im Bild getrickst wird oder wo ein fieser Kettenbrief verschickt wird. Zwei Charaktere, Mona und Henri, unterstützen die Kinder dabei, den Überblick zu behalten​
   - Fakefinder – Deine News-Challenge: Dieses Modul richtet sich an Personen zwischen 14 und 99 Jahren und ist für die private Herausforderung gedacht. Hier nehmen Nutzer*innen ihren Newsfeed unter die Lupe: Sie lernen zu unterscheiden, welche Meldungen wahr sind, wo manipuliert wurde, wo satirisch übertrieben wurde und woran man das feststellen kann. Die Herausforderung besteht darin, zu entscheiden, ob eine Meldung FAKE, NOT FAKE oder SATIRE ist​​.
   - Fakefinder School: Dieses Modul ist ab 14 Jahren und für den (Fern-)Unterricht in Sekundarstufe 1 & 2 gedacht. Hierbei geht es um eine Klassen-Challenge in einem individuell zusammengestellten Lernraum. Die Lehrkraft wählt die Aufgaben und beeinflusst Anzahl, Schwierigkeit und Themenkategorien der Fälle. Die Schüler*innen nehmen die Herausforderung an, um zu sehen, ob sie das Zeug zum Klassenbesten haben​.
+  - [ÜBERNIMM DAS TATORT-GAME UND LÖSE DEN FALL!](https://www.tatortgame.de)
+  - [LEIFI Talk Spezial: Apps, Projekte & KI-Tools für den digitalen Physikunterricht](https://www.leifiphysik.de/neu-bei-leifiphysik/leifi-talk-spezial-apps-projekte-ki-tools-fuer-den-digitalen-physikunterricht)
+  - [Sitzplan-Erstellung mit Excel](https://www.thomasfelzmann.at/sitzplan-erstellung-leicht-gemacht/)
+  - [Apps für die Grundschule](https://mzhd.padlet.org/EvaPetry/apps-f-r-die-grundschule-zc4jfbaut68oy0dz)
+  - [Online-Tipps für den Musikunterricht](https://www.thomasfelzmann.at/online-tipps-fuer-den-musikunterricht/)
 
 ## Fortbildungen
 
