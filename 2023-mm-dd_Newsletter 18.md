@@ -54,6 +54,18 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 
 ## Fortbildungen
 
+### Neue Wege der Leistungsermittlung im digitalen Zeitalter
+__am 20.11.2023 in Aurich__
+In der Veranstaltung "Neue Wege der Leistungsermittlung im digitalen Zeitalter" widmen wir uns der Herausforderung, eine zeitgemäße Prüfungskultur zu gestalten, die den Anforderungen des 21. Jahrhunderts gerecht wird.
+
+Die Veranstaltung beginnt mit einem einführenden Vortrag zum Thema "Zeitgemäße Lernkultur", in dem wir einen Überblick über aktuelle Trends und Herausforderungen in der Bildungslandschaft geben.
+Im Anschluss daran bieten wir verschiedene Workshops zu unterschiedlichen Themen in diesem Kontext an. Die Workshops sind so konzipiert, dass sie sowohl theoretisches Wissen vermitteln als auch praktische Anwendungen und Lösungsansätze aufzeigen.
+Nach einer Mittagspause folgt eine Arbeitsphase, in der die Teilnehmer in Gruppen alternative Prüfungsaufgaben entwickeln. Diese Phase dient dazu, das im Vortrag und in den Workshops erlernte Wissen praktisch anzuwenden und eigene Ideen und Konzepte zu erarbeiten.
+Die Veranstaltung ist eingebettet in das neue Lehrkräftenetzwerk "Schulentwicklung im 21. Jahrhundert - Netzwerk NordWest". Dieses Netzwerk bietet eine Plattform für den Austausch und die Zusammenarbeit zwischen Lehrkräften, die sich für die Weiterentwicklung der Schulkultur engagieren.
+Wir freuen uns auf eine inspirierende Veranstaltung mit vielen neuen Impulsen und Ideen für die Gestaltung einer modernen Prüfungskultur.
+
+Den Link zur Veranstaltungsanmeldung finden Sie hier: [Neue Wege der Leistungsermittlung im digitalen Zeitalter](https://vedab.de/veranstaltungsdetails.php?vid=140929)
+
 ## Fortbildungsübersicht
 
 - [VeDaB](https://vedab.de/veran_suche.php?sachgebiet=&schulform=&such=Medienbildung&utm_campaign=Newsletter%20von%20der%20Medienberatung%20Nord-West&utm_medium=email&utm_source=Revue%20newsletter&veranstalter=)
