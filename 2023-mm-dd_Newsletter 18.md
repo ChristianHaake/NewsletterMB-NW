@@ -83,9 +83,24 @@ Wir freuen uns auf eine inspirierende Veranstaltung mit vielen neuen Impulsen un
 
 Den Link zur Veranstaltungsanmeldung finden Sie hier: [Neue Wege der Leistungsermittlung im digitalen Zeitalter](https://vedab.de/veranstaltungsdetails.php?vid=140929)
 
+### Barcamp!Nord!West! Grundschule trifft Förderschule. Thema Digitalität.
+
+Die Digitalisierung nimmt Fahrt auf und vor allem die Grundschulen haben den bisher radikalsten Strukturwandel aller Schulformen erfahren:
+Gerade eben noch saßen wir gemütlich vor der grünen Tafel und nun sitzen wir auf heißen digitalen Kohlen.
+Tablets im Unterricht, Dienstgeräte, digitale Tafeln, Medienbildungskonzepte, digitale Förderplanung und WLAN, nicht alle entwickeln hier ein Gefühl von Nestwärme. Und doch können die SuS und wir Lehrkräfte von der Digitalität in der Grundschule profitieren.
+Doch wo bleibt Zeit für den Austausch und die konstruktive Ausrichtung der neuen Lernumgebungen? Wie können Lehrkräfte und pädagogisches Personal gute Ergebnisse aus den digitalen Möglichkeiten herausholen und sich dadurch entlasten? Dazu gleichzeitig Inklusion leisten und die Zusammenarbeit mit den FÖS-Kolleginnen und Kollegen sicherstellen.
+Kurzum:
+Welche Möglichkeiten bietet uns die Digitalität in der Grund- und Förderschule?
+Diese Frage in allen Facetten soll während des Barcamps ausgelotet werden – praxisnah, kollegial, multiprofessionell, kritisch und (offen-)herzig.
+
+[Hier gehts zum Artikel und der Veranstaltung](https://medienberatung.online/2023/08/30/barcamp-nordwest-grundschule-trifft-foerderschule-thema-digitalitaet/)
+
 ### Vision Schule
 Die Veranstaltung "Vision Schule" findet am 4. Oktober 2023 statt und ist ein Online-Format, das sich auf aktuelle Themen der Medienbildung konzentriert. Die Veranstaltung bietet eine Vielzahl von Workshops, die von kompetenten Referierenden geleitet werden. Diese Workshops sind in fünf 90-minütigen Slots organisiert und können unabhängig voneinander gewählt werden. Wenige Tage vor der Veranstaltung erhalten die Teilnehmer die Zugangsdaten für die Videokonferenzräume.
 [Link zur Veranstaltung](https://visionschule.medienberatung.online)
+
+### Tag der Medienkompetenz 2023
+[Hier gehts zur Veranstaltung](https://medienberatung.online/2023/08/25/tag-der-medienkompetenz/)
 
 ## Fortbildungsübersicht
 
