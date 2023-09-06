@@ -13,6 +13,9 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Lernen und künstliche Intelligenz](https://joschafalck.de/lernen-und-ki/)
   Der Artikel "Lernen und KI" von Joscha Falck diskutiert das Potenzial der Künstlichen Intelligenz (KI) zur Revolutionierung des Lernens. KI kann personalisierte Lernpfade erstellen und Lernenden helfen, ihre Stärken und Schwächen besser zu verstehen. Der Autor betont jedoch, dass KI das Lernen nicht ersetzen, sondern nur ergänzen kann, da sie menschliche Aspekte wie Engagement, Motivation und soziale Interaktionen nicht ersetzen kann.
 - [Bausteine für Fortbildungen zum Thema Kollaboration und Kultur des Teilens](https://ebildungslabor.de/blog/bausteine-fuer-fortbildungen-zum-thema-kollaboration-und-kultur-des-teilens/)
+- [ChatGPT wird die Lernkultur grundlegend verändern](https://www.faz.net/aktuell/karriere-hochschule/klassenzimmer/paedagoge-chatgpt-wird-die-lernkultur-grundlegend-veraendern-18904317.html)
+- [Künstliche Intelligenz in der Schule](https://youtube.com/watch?v=qqPwR685FkI&feature=share)
+- [Schulentwicklung: Selbstevaluation](https://schule-in-der-digitalen-welt.de/schulentwicklung-selbstevaluation/)
 
 
 ## Materialtipps
@@ -28,6 +31,11 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - (Projekt: Balladen zu ungewöhnlichen Schlagzeilen schreiben)[https://schreibecke.blog/2023/07/02/projekt-balladen-zu-ungewohnlichen-schlagzeilen-schreiben/]
 - [Simulationen, Informationen und Tools für den Unterricht in naturwissenschaftlichen Fächern](https://kippenbergs.de)
 - [80 back to school ideas and activities](https://ditchthattextbook.com/back-to-school/)
+- [Lehren und Lernen mit Moodle](https://www.joeran.de/lehren-und-lernen-mit-moodle-ein-offenes-lernangebot/)
+- [Ideen für kreative Lernprodukte im Unterricht](https://www.kms-bildung.de/2023/04/30/ideen-fuer-kreative-lernprodukte-im-unterricht/)
+- [Mediennutzungsvertrag Generator](https://www.mediennutzungsvertrag.de)
+- [Accessibility in Education](https://education.apple.com/en/resource/250011712)
+- [Online-Escape-Room: Grundlagen zu Cybermobbing und Fake News](https://bitte-was.de/fuer-lehrkraefte/online-escape-room)
 
 ### ChatGPT und so weiter
 
@@ -36,6 +44,15 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [PEER](https://peer-ai-tutor.streamlit.app)
     PEER ist ein Projekt des Lehrstuhls für Human-Centered Technologies for Learning an der TUM. Ziel des Projektes ist es Schüler von der Grundschule bis zur Universität beim Erstellen von Aufsätzen aller Art zu unterstützen. Die Texte werden mit Unterstützung von KI untersucht und es wird ein möglichst konstruktives Feedback erzeugt. Alle Aufsatzdaten werden anonymisiert erfasst, um PEER stetig zu verbessern.
 - [Umgang mit KI am Seminar Stuttgart](https://twitter.com/floriankarsten/status/1673735405483573256/photo/1)
+- [KI Kompass - Spiel](https://www.hiig.de/ki-kompass/)
+- [Einsatz von Künstlicher Intelligenz bei der Unterrichtsplanung](https://www.kms-bildung.de/2023/05/30/einsatz-von-kuenstlicher-intelligenz-bei-der-unterrichtsplanung/)
+- [Einsatzmöglichkeiten von ChatGPT im Geschichtsunterricht](https://www.kms-bildung.de/2023/01/27/einsatzmoglichkeiten-von-chatgpt-im-geschichtsunterricht/)
+- [Sechs Promptideen für deine Unterrichtsvorbereitung](https://www.kms-bildung.de/2023/09/01/chatgpt-sechs-promptideen-fuer-deine-unterrichtsvorbereitung/)
+- [Lernen und künstliche Intelligenz](https://joschafalck.de/lernen-und-ki/)
+- [Unterricht mit dem Tablet: „In unserer Untersuchung hat sich gezeigt, dass sich auf Dauer die Internetrecherche negativ auf die Motivation auswirkt“](https://www.news4teachers.de/2023/07/unterricht-mit-dem-tablet-in-unserer-untersuchung-hat-sich-gezeigt-dass-internetrecherche-die-motivation-bremst/)
+- [Europa Imperialis – Ein didaktisches Pen & Paper zum Imperialismus - Die Frau mit dem Dromedar](https://diefraumitdemdromedar.de/europa-imperialis-ein-didaktisches-pen-paper-zum-imperialismus/)
+- [Alternative Aufgaben- und Prüfungsformate](https://mz-bgl.taskcards.app/#/board/98e23504-75e7-4cc0-a488-235be48e86c8/view?token=05afdbe9-8a88-4cb7-86bd-e23eba498408)
+- [Automatisierte Aufsatzbewertung mit #gptchat](https://beurteilung.ghost.io/automatisierte-aufsatzbewertung-mit-gptchat/?ref=beurteilung-unterricht-newsletter)
 
 ## Tools und mehr
 
@@ -65,6 +82,10 @@ Die Veranstaltung ist eingebettet in das neue Lehrkräftenetzwerk "Schulentwickl
 Wir freuen uns auf eine inspirierende Veranstaltung mit vielen neuen Impulsen und Ideen für die Gestaltung einer modernen Prüfungskultur.
 
 Den Link zur Veranstaltungsanmeldung finden Sie hier: [Neue Wege der Leistungsermittlung im digitalen Zeitalter](https://vedab.de/veranstaltungsdetails.php?vid=140929)
+
+### Vision Schule
+Die Veranstaltung "Vision Schule" findet am 4. Oktober 2023 statt und ist ein Online-Format, das sich auf aktuelle Themen der Medienbildung konzentriert. Die Veranstaltung bietet eine Vielzahl von Workshops, die von kompetenten Referierenden geleitet werden. Diese Workshops sind in fünf 90-minütigen Slots organisiert und können unabhängig voneinander gewählt werden. Wenige Tage vor der Veranstaltung erhalten die Teilnehmer die Zugangsdaten für die Videokonferenzräume.
+[Link zur Veranstaltung](https://visionschule.medienberatung.online)
 
 ## Fortbildungsübersicht
 
