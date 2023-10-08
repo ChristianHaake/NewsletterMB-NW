@@ -81,7 +81,7 @@ Zahlreiche kostenlose Online-Angebote des NLQ: Von Konzeptentwicklung über Plan
 - [Oldenburger Fortbildungszentrum (OFZ)](https://uol.de/ofz/fortbildungsangebot)
 Fortbildungsveranstaltungen des OFZ zum Thema Medienkompetenzen
 
--[Kompetenzzentrum für Lehrkräftefortbildung in Aurich](https://bildung.ostfriesischelandschaft.de/lfb/)
+- [Kompetenzzentrum für Lehrkräftefortbildung in Aurich](https://bildung.ostfriesischelandschaft.de/lfb/)
 Die Ostfriesische Landschaft in Aurich bietet regelmäßig ein abwechslungsreiches Fortbildungsprogramm in Zusammenarbeit mit der Medienberatung und den Medienzentren Aurich und Norden an. Besonders beachtenswert ist der Digitale Stammtisch, der jeden ersten Montag im Monat stattfindet. Hier können alle Fragen zur digitalen Bildung gestellt werden. In Regel sind der zwei Experten und eine Expertin anwesend, sodass beinahe alle Fragen sofort geklärt werden können.
 
 
