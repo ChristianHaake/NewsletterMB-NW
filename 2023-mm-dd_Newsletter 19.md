@@ -1,10 +1,10 @@
 # Newsletter von der Medienberatung Nord-West - Ausgabe #14
 
-Herzlich willkommen zur nächsten Ausgabe unseres Newsletters. Ferien sind in Sicht!
+Herzlich willkommen zur nächsten Ausgabe unseres Newsletters.
+
+... die Blätter beginnen zu fallen und eine kühle Brise kündigt sie bereits an: Die Herbstferien stehen vor der Tür! Bevor wir uns in die wohlverdiente Auszeit begeben, laden wir Sie ein, einen Blick in unseren aktuellen Newsletter zu werfen. Entdecken Sie spannende Themen rund um die digitale Bildungswelt, die uns auch in der gemütlichen Jahreszeit begleiten werden. Wir wünschen Ihnen eine inspirierende Lektüre und eine erholsame Ferienzeit!
 
 Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum digitalen Unterrichten darstellen. Sicherlich ist nicht alles gleichermaßen umsetzbar oder sofort nutzbar, soll aber Denkanstöße liefern.
-
-Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
 
 ## Interessante Artikel
 - [Britische Regierung will Handys an Schulen verbieten](https://www.spiegel.de/panorama/grossbritannien-britische-regierung-will-handys-an-schulen-verbieten-a-8ad3be62-e18a-4cf5-99a6-07f2bdcad41e?sara_ref=re-so-app-sh&sara_ref=re-so-app-sh)
@@ -61,7 +61,6 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Kartenspiele selber erstellen](https://spieleinderschule.org)
 - [Planspiel Sontal regenerativ](https://nwt-bw.de/planspiel-erneuerbare-energie/)
 - [Meinungsbildung in Zeiten von Deep Fakes](https://www.klicksafe.de/news/meinungsbildung-in-zeiten-von-deep-fakes)
-- 
 
 ## Ki und so weiter
 - [SPRACHMODELLE IM SCHULUNTERRICHT: CHANCEN UND HERAUSFORDERUNGEN](https://www.bildung-lsa.de/files/5c5e6e7a4f362d6ab1bfd03a000ac17d/Sprachmodelle_im_Schulunterricht.pdf)
@@ -70,8 +69,6 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - Unterrichtsbeispiele: [KLICKSAFE-BROSCHÜRE: WIE ZUVERLÄSSIG IST CHATGPT?](https://www.lmz-bw.de/landesmedienzentrum/aktuelles/aktuelle-meldungen/detailseite/klicksafe-broschuere-mit-unterrichtsmaterial-wie-zuverlaessig-ist-chatgpt)
 - [Einführung zum Thema KI von IQSH](https://www.youtube.com/watch?v=UX_Od_0_4as&si=MT7_YglIBuKcEIrs)
 - [Der ChatGPT-Guide für Lehrkräfte](https://manuelflick.notion.site/Der-ChatGPT-Guide-f-r-Lehrkr-fte-76737e0c39784fc0bb610eb9dab1d541)
-
-## Fortbildungen
 
 ## Fortbildungsübersicht
 
