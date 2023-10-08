@@ -1,8 +1,10 @@
 # Newsletter von der Medienberatung Nord-West - Ausgabe #18
 
-Herzlich willkommen zur nächsten Ausgabe unseres Newsletters. Ferien sind in Sicht!
+Herzlich willkommen zur nächsten Ausgabe unseres Newsletters. Das Schuljahr ist wieder voll in Fahrt!
 
 Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum digitalen Unterrichten darstellen. Sicherlich ist nicht alles gleichermaßen umsetzbar oder sofort nutzbar, soll aber Denkanstöße liefern.
+
+Der aktuelle Newsletter der Medienberatung Nord-West bietet eine Fülle an Informationen und Ressourcen für Lehrkräfte, die sich für digitale Bildung interessieren. Von interessanten Artikeln über KI im Bildungsbereich bis hin zu praktischen Materialtipps und Tools für den Unterricht ist alles dabei. Zudem gibt es Hinweise auf bevorstehende Fortbildungen, die sich mit Themen wie "Neue Wege der Leistungsermittlung im digitalen Zeitalter" oder "Digitalität in der Grund- und Förderschule" befassen. Ein Muss für alle, die sich für die Zukunft der Bildung interessieren!
 
 Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
 
@@ -120,4 +122,6 @@ Christian Haake, Cord Gudegast und Matthias Ottmann
 
 _Disclaimer: Dieser Newsletter ist kein offizielles Produkt des NLQ oder der Medienberatung, sondern ein einfaches Medium von einigen Kollegen, um Sie zu informieren_
 
-**Link zu Substack:  **
+**Link zu Substack: https://open.substack.com/pub/medienberatungnordwest/p/newsletter-von-der-medienberatung-7b0?utm_campaign=post&utm_medium=web**
+
+**Link zu Github: https://github.com/ChristianHaake/NewsletterMB-NW/blob/main/2023-mm-dd_Newsletter%2018.md**
