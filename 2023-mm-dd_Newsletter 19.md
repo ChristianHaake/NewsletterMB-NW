@@ -1,4 +1,4 @@
-# Newsletter von der Medienberatung Nord-West - Ausgabe #14
+# Newsletter von der Medienberatung Nord-West - Ausgabe #19
 
 Herzlich willkommen zur nächsten Ausgabe unseres Newsletters.
 
