@@ -5,10 +5,10 @@ Auf der folgenden Seite finden Sie Newsletter mit interessanten Links und Artike
 Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/NewsletterMB-NW) oder [Substack](https://medienberatungnordwest.substack.com/publish/posts)
 
 # 2023
-- [Newsletter 19](2023-10-10_Newsletter 19.md)
-- [Newsletter 18](2023-06-09_Newsletter 18.md)
-- [Newsletter 17](2023-06-01_Newsletter 17.md)
-- [Newsletter 16](2023-04-05_Newsletter 16.md)
+- [Newsletter 19](/2023-10-10_Newsletter%2019.md)
+- [Newsletter 18](/2023-06-09_Newsletter%2018.md)
+- [Newsletter 17](/2023-06-01_Newsletter%2017.md)
+- [Newsletter 16](/2023-04-05_Newsletter%2016.md)
 
 # 2022
 - [Newsletter 7](2022-01-22_Newsletter von der Medienberatung Nord-West - Ausgabe 7.md)
@@ -18,8 +18,8 @@ Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/New
 - [Newsletter 11](2022-06-22_Newsletter von der Medienberatung Nord-West - Ausgabe 11.md)
 - [Newsletter 12](2022-08-30_Newsletter von der Medienberatung Nord-West - Ausgabe 12.md)
 - [Newsletter 13](2022-10-05_Newsletter von der Medienberatung Nord-West - Ausgabe 13.md)
-- [Newsletter 14](2022-11-14_Newsletter von der Medienberatung Nord-West - Ausgabe 14.md)
-- [Newsletter 15](2022-12-14_Newsletter 15.md)
+- [Newsletter 14](/2022-11-14_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%2014.md)
+- [Newsletter 15](/2022-12-14_Newsletter%2015.mdd)
 
 # 2021
 - [Newsletter 1](2021-06-02_Newsletter von der Medienberatung Nord-West - Ausgabe 1.md)
