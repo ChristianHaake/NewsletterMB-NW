@@ -7,6 +7,8 @@ Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum
 Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
 
 ## Interessante Artikel
+- [KI zur Unterrichtsgestaltung nutzen - Bsp. Nach den Ferien in Hogwarts](https://haak3.de/articles/Unterrichtsentwicklung-mit-KI/2023-09_KI-DE-Nach_den_Ferien_in_Hogwarts.html)
+  Im neuen Artikel von mir untersuchee ich den Einsatz von ChatGPT zur Differenzierung im Unterricht. Anhand eines Beispiels aus der Welt von Hogwarts zeige ich, wie Inhalte für verschiedene Leistungsniveaus angepasst werden können, ohne die gemeinsame Diskussionsgrundlage zu verlieren. Der Artikel bietet Einblicke in den Prozess und die Ergebnisse dieses Ansatzes.
 - [ChatGPT – wie können Schulen damit umgehen?](https://deutsches-schulportal.de/unterricht/chatgpt-in-der-schule-wer-hats-geschrieben/)
   Entdecken Sie, wie ChatGPT und KI den Schulunterricht in Deutschland prägen. Bundesländer teilen Handreichungen für Lehrkräfte, während die Prüfungslandschaft sich anpasst, um KI-basiertes Schummeln zu bekämpfen. Erfahren Sie mehr über die Reaktionen von Eltern und die jüngsten ChatGPT-Missbrauchsfälle im Abitur 2023 in Hamburg. Lesen Sie den ganzen Artikel hier und bleiben Sie über die neuesten Entwicklungen informiert.
 - [Feedback – als Begriff oft verwendet, als Technik selten angewendet](https://www.fiete.ai/blog/feedback-als-begriff-oft-verwendet-als-technik-selten-angewendet)
