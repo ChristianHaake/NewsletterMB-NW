@@ -11,13 +11,13 @@ Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/New
 - [Newsletter 16](/2023-04-05_Newsletter%2016.md)
 
 # 2022
-- [Newsletter 7](2022-01-22_Newsletter von der Medienberatung Nord-West - Ausgabe 7.md)
-- [Newsletter 8](2022-03-02_Newsletter von der Medienberatung Nord-West - Ausgabe 8.md)
-- [Newsletter 9](2022-04-29_Newsletter von der Medienberatung Nord-West - Ausgabe 9.md)
-- [Newsletter 10](2022-05-19_Newsletter von der Medienberatung Nord-West - Ausgabe 10.md)
-- [Newsletter 11](2022-06-22_Newsletter von der Medienberatung Nord-West - Ausgabe 11.md)
-- [Newsletter 12](2022-08-30_Newsletter von der Medienberatung Nord-West - Ausgabe 12.md)
-- [Newsletter 13](2022-10-05_Newsletter von der Medienberatung Nord-West - Ausgabe 13.md)
+- [Newsletter 7](/2022-03-02_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%208.md)
+- [Newsletter 8](/2022-03-02_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%208.md)
+- [Newsletter 9](/2022-04-29_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%209.md)
+- [Newsletter 10](/2022-05-19_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%2010.md)
+- [Newsletter 11](/2022-06-22_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%2011.md)
+- [Newsletter 12](/2022-08-30_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%2012.md)
+- [Newsletter 13](/2022-10-05_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%2013.md)
 - [Newsletter 14](/2022-11-14_Newsletter%20von%20der%20Medienberatung%20Nord-West%20-%20Ausgabe%2014.md)
 - [Newsletter 15](/2022-12-14_Newsletter%2015.mdd)
 
