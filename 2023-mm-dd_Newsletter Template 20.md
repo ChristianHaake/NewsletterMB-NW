@@ -17,11 +17,37 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
     🎯 Erfahren Sie, wie Lehrkräfte und Schüler gleichermaßen von einer Kultur profitieren können, die auf konstruktiver, bewertungsfreier Rückmeldung basiert, und entdecken Sie, wie Sie eine solche Kultur in Ihrer Bildungseinrichtung etablieren können.
 - [Mit einer positiven Einstellung lernt es sich leichter](https://bildungsklick.de/hochschule-und-forschung/detail/mit-einer-positiven-einstellung-lernt-es-sich-leichter#)
   Neue Forschungsergebnisse enthüllen das Geheimnis erfolgreichen Lernens! Eine aktuelle Metastudie des DIPF und weiterer renommierter Einrichtungen zeigt auf, dass eine positive Einstellung nicht nur das Lernen erleichtert, sondern auch zum Erreichen selbstgesteckter Ziele beiträgt. 🎓✨ Entdecken Sie, wie Motivation und Selbstvertrauen in einem spannenden Wechselspiel den Lernerfolg beeinflussen und warum der Zeitaufwand nicht immer entscheidend ist. 🕰️📚 Tauchen Sie mit uns in die faszinierenden Ergebnisse ein und erfahren Sie mehr über die Kraft positiver und negativer Lernspiralen in unserem neuesten Artikel! 🌀📘
+- [An AI Teaching Assistant Boosted College Students' Success. Could It Work for High School?](https://www.edweek.org/technology/an-ai-teaching-assistant-boosted-college-students-success-could-it-work-for-high-school/2023/10)
+  Ein Artikel, veröffentlicht von Sarah D. Sparks auf Education Week, berichtet über die Anwendung eines künstlichen Intelligenz (KI)-gestützten Lehrassistenten, TA Pounce, an der Georgia State University. Die Implementierung dieses Tools zielte darauf ab, die akademische Leistung und Kursabschlussraten in großen Einführungsvorlesungen zu verbessern. Die Ergebnisse weisen darauf hin, dass der Einsatz von TA Pounce insbesondere für unterrepräsentierte Studierende und diejenigen, die zuvor als gefährdet für den Kursabbruch galten, vorteilhaft war.
 
 
 ## Materialtipps
+- [Sketchnote KARTENSPIEL](https://sketchnotegame.wordpress.com/download-kartenspiel/)
+- [Materialpake zur SPRACHSENSIBLEN SCHULENTWICKLUNG](https://www.stiftung-mercator.de/de/publikationen/das-projekt-sprachsensible-schulentwicklung/)
+- [BNE Projekte des Hölty Gymnasiums](https://hoelty-celle.de/bne-projektwoche-2023/)
+- [Geschichte lebendig erzählt - Tag der Deutschen Einheit](https://www.klicksafe.de/news/geschichte-lebendig-erzaehlt)
+- [Märchen in Leichter Sprache](https://www.ndr.de/fernsehen/barrierefreie_angebote/leichte_sprache/Maerchen-in-Leichter-Sprache,maerchenleichtesprache100.html)
+- [Themenheft: Selbstwirksamer vor der Klasse!](https://www.edu.sot.tum.de/suf/selbstwirksamer-vor-der-klasse-download/)
+- [Didacta Magazin - Prüfungskultur + IT Checkliste für Schulen](https://avr-emags.de/emags/didacta/didacta_3_2023/epaper/ausgabe.pdf)
+- [Physik Libre - Freies Physikbuch für SEK II](https://physikbuch.schule/index.html)
+- [Einstieg in die Programmierung mit Scratch Junior](https://appcamps.de/unterrichtsmaterial/unterrichtsmaterial-fuer-scratchjunior/)
+- [Python lernen mit Turinglab](https://appcamps.de/2023/10/10/python-lernen-mit-turinglab/)
+- TaskCard [Erlebnispädagogische Übungen](https://www.taskcards.de/#/board/b856b3d6-44f5-4966-acce-91edee5b0bd4/view)
+- [kostenlose Piktogramme](https://physikkommunizieren.de/unterrichtsmaterialien/vorlagen/)
 
 ## Tools und mehr
+- Tutorial: [Digitale Heftführung mit GoodNotes - Digitales Schulheft mit individuellen Verlinkungen](https://www.youtube.com/watch?v=gaW147Bb-WY)
+- [Offene Digiscreen Instanz](https://digiscreen.medienzentrenbw.de)
+- Tutorial: [Aufgaben erstellen zu Audiodateien](https://medienwelten.schule/kurzanleitung-aufgaben-erstellen-zu-audiodateien)
+
+## KI und mehr
+- Podcast: [Episode 2 - KI in US-Schulen. Alles easy? Ganz und gar nicht.](https://kreide-ki-klartext.podigee.io/4-new-episode)
+- [6 ChatGPT-Aufforderungen Für LehrerInnen Zur Verbesserung Des Lernprozesses](https://textcortex.com/de/post/chatgpt-prompts-for-teachers)
+- [AI - ChatGPT & Co - Bildung](https://www.taskcards.de/#/board/2320e9ab-267a-4250-a454-dc1127003bbc/view?token=a3c3f9a7-c8d7-4178-88a4-2f097316b88c)
+- [TaskCard: AI - ChatGPT & Co - Bildung](https://www.taskcards.de/#/board/2320e9ab-267a-4250-a454-dc1127003bbc/view?token=a3c3f9a7-c8d7-4178-88a4-2f097316b88c)
+- [Zeitgemäße Prüfungskultur – ChatGPT im Geschichtsunterricht](https://jonaswagner.de/chatgpt-geschichtsunterricht/)
+- [Musterlösungen erstellen mit ChatGPT und Mathpix](https://mathemia.de/blog/2023-10-08-chatgpt-und-mathpix/)
+- [21 KI-LERNIDEEN](https://www.lmz-bw.de/21-ki-lernideen)
 
 ## Fortbildungen
 
