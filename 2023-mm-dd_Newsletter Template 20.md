@@ -17,8 +17,15 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
     🎯 Erfahren Sie, wie Lehrkräfte und Schüler gleichermaßen von einer Kultur profitieren können, die auf konstruktiver, bewertungsfreier Rückmeldung basiert, und entdecken Sie, wie Sie eine solche Kultur in Ihrer Bildungseinrichtung etablieren können.
 - [Mit einer positiven Einstellung lernt es sich leichter](https://bildungsklick.de/hochschule-und-forschung/detail/mit-einer-positiven-einstellung-lernt-es-sich-leichter#)
   Neue Forschungsergebnisse enthüllen das Geheimnis erfolgreichen Lernens! Eine aktuelle Metastudie des DIPF und weiterer renommierter Einrichtungen zeigt auf, dass eine positive Einstellung nicht nur das Lernen erleichtert, sondern auch zum Erreichen selbstgesteckter Ziele beiträgt. 🎓✨ Entdecken Sie, wie Motivation und Selbstvertrauen in einem spannenden Wechselspiel den Lernerfolg beeinflussen und warum der Zeitaufwand nicht immer entscheidend ist. 🕰️📚 Tauchen Sie mit uns in die faszinierenden Ergebnisse ein und erfahren Sie mehr über die Kraft positiver und negativer Lernspiralen in unserem neuesten Artikel! 🌀📘
+- [Ki im Sprachenunterricht](https://haak3.de/articles/Ki-im-Sprachenunterricht/2023-10_Ki-im-Sprachenunterricht.html)
+  Abstract:
+  Der Einsatz von Künstlicher Intelligenz (KI) im Sprachenunterricht hat sich als ein zweischneidiges Schwert erwiesen, das sowohl bemerkenswerte Vorteile als auch inhärente Herausforderungen mit sich bringt. Dieser Artikel navigiert durch fünf Dimensionen des Lernens im Kontext von KI und Sprachenunterricht, inspiriert von Joscha Falcks “Lernen und künstliche Intelligenz - Fünf Dimensionen für den Unterricht”. Es wird ein umfassender Überblick über das Lernen trotz KI, mit KI, über KI, durch KI und ohne KI geboten, wobei jede Dimension einzigartige Perspektiven und Anwendungen von KI im Sprachenunterricht beleuchtet. Während KI die Fähigkeit besitzt, den Lernprozess durch Personalisierung und sofortiges Feedback zu optimieren, wird betont, dass sie nicht als Ersatz, sondern als Ergänzung zum traditionellen Sprachenunterricht und menschlicher Interaktion betrachtet werden sollte. Der Artikel erforscht sowohl die Potenziale als auch die Grenzen von KI in der Bildung, wobei stets der menschliche Faktor und die Unverzichtbarkeit menschlicher Interaktion und traditioneller Lernmethoden im Blick behalten werden. Die Diskussion umfasst auch ethische, datenschutzrechtliche und qualitative Aspekte, die bei der Implementierung von KI in den Bildungsbereich berücksichtigt werden müssen.
 - [An AI Teaching Assistant Boosted College Students' Success. Could It Work for High School?](https://www.edweek.org/technology/an-ai-teaching-assistant-boosted-college-students-success-could-it-work-for-high-school/2023/10)
   Ein Artikel, veröffentlicht von Sarah D. Sparks auf Education Week, berichtet über die Anwendung eines künstlichen Intelligenz (KI)-gestützten Lehrassistenten, TA Pounce, an der Georgia State University. Die Implementierung dieses Tools zielte darauf ab, die akademische Leistung und Kursabschlussraten in großen Einführungsvorlesungen zu verbessern. Die Ergebnisse weisen darauf hin, dass der Einsatz von TA Pounce insbesondere für unterrepräsentierte Studierende und diejenigen, die zuvor als gefährdet für den Kursabbruch galten, vorteilhaft war.
+- [Das Zürcher Schulführungsmodell](https://blog.phzh.ch/schulfuehrung/2023/10/10/das-zuercher-schulfuehrungsmodell/)
+- [Bewertung mit Kompetenzraster – ein Zwischenstand](https://beurteilung.ghost.io/bewertung-mit-kompetenzraster-ein-zwischenstand/?ref=beurteilung-unterricht-newsletter)
+- [Alemannenschule Wutöschingen - Schule machen](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/alemannenschule-wutoeschingen-schule-machen?utm_source=instagram&utm_medium=post&utm_campaign=kollektion_lernen&utm_content=ruppaner_zitat)
+- [KI zur Unterrichtsgestaltung nutzen - Am Thema Apartheid](https://haak3.de/articles/Unterrichtsentwicklung-mit-KI/2023-11_KI-EN-Apartheid.html)
 
 
 ## Materialtipps
@@ -34,11 +41,26 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Python lernen mit Turinglab](https://appcamps.de/2023/10/10/python-lernen-mit-turinglab/)
 - TaskCard [Erlebnispädagogische Übungen](https://www.taskcards.de/#/board/b856b3d6-44f5-4966-acce-91edee5b0bd4/view)
 - [kostenlose Piktogramme](https://physikkommunizieren.de/unterrichtsmaterialien/vorlagen/)
+- Riesige Materalsammlung zu verschiedenen Fächern[MATERIALNETZWERK](https://editor.mnweg.org/?p=1&materialType=bundle)
+- [Arbeitsblätter zum Thema Klimaschutz](https://www.klimaschutz-niedersachsen.de/_downloads/SonstigeDokumente/Klimaschutzbroschuere_Grundschulen_Kopiervorlagen_Arbeitsblaetter.pdf?m=1622184440&)
+- Unterrichtseinheit: [Fake oder Fakt? Lügen im Internet](https://ed.spiegel.de/unterrichtsmaterial/fake-oder-fakt-luegen-im-internet-unterrichtseinheit-zu-fake-news-ab-klasse-5)
+- bpb Information zu [Medienkompetenz in einer digitalen Welt](https://www.bpb.de/shop/zeitschriften/izpb/medienkompetenz-355/)
+- [Zeitgemäße Prüfungskultur – ChatGPT im Geschichtsunterricht](https://jonaswagner.de/chatgpt-geschichtsunterricht/)
+- [Kostenloses Unterrichtsmaterial für Lehrkräfte von Grundschule bis Sekundarstufe II](https://www.hopp-foundation.de/unterrichtsmaterial/zum-download/)
+- [MATHEMATIK AM SCHULANFANG](https://pikas.dzlm.de/unterricht/schulanfang/mathematik-am-schulanfang)
+- [grade 9 / 10 - teaching ideas](https://padlet.com/heinecke_beethoven/grade-9-10-teaching-ideas-7swrv858tjos3nn4)
+- [Bewertung und Kriterien für Erklärvideos](https://www.taskcards.de/#/board/9eba428b-8d96-4e37-a7b5-a9547f9894be/view?token=83c4fd6e-61a7-4737-9e41-13e7157c270f)
+- TaskCard zu [Israel Palästina](https://kmz-tuebingen.taskcards.app/#/board/0315c25a-4907-4769-ba12-f9ef12737a1f/view?token=3f8b1696-1054-4ad6-a335-6636ee6deb09) 
+  Hintergrundinformationen / Filme / Unterrichtsmaterial für den Politikunterricht erstellt für das #bluelz von @frauenem.bsky.social 👉Jede Lehrkraft sollte selbst prüfen und entscheiden, welche Materialien für welche Schülerschaft passen.
+- 
 
 ## Tools und mehr
 - Tutorial: [Digitale Heftführung mit GoodNotes - Digitales Schulheft mit individuellen Verlinkungen](https://www.youtube.com/watch?v=gaW147Bb-WY)
 - [Offene Digiscreen Instanz](https://digiscreen.medienzentrenbw.de)
 - Tutorial: [Aufgaben erstellen zu Audiodateien](https://medienwelten.schule/kurzanleitung-aufgaben-erstellen-zu-audiodateien)
+- [Überblick zu datenschutzkonformen Alternativen zu Kahoot](https://thomas-ebinger.de/2023/10/datenschutzfreundliche-kahoot-alternativen-fuer-schule-und-konfi/)
+- [Kurzanleitung: Aufgaben erstellen zu Audiodateien](https://medienwelten.schule/kurzanleitung-aufgaben-erstellen-zu-audiodateien)
+- [Google: Tools zum Faktencheck von Bildern und Quellen im Netz](https://stadt-bremerhaven.de/google-tools-zum-faktencheck-von-bildern-und-quellen-im-netz/)
 
 ## KI und mehr
 - Podcast: [Episode 2 - KI in US-Schulen. Alles easy? Ganz und gar nicht.](https://kreide-ki-klartext.podigee.io/4-new-episode)
@@ -48,10 +70,12 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Zeitgemäße Prüfungskultur – ChatGPT im Geschichtsunterricht](https://jonaswagner.de/chatgpt-geschichtsunterricht/)
 - [Musterlösungen erstellen mit ChatGPT und Mathpix](https://mathemia.de/blog/2023-10-08-chatgpt-und-mathpix/)
 - [21 KI-LERNIDEEN](https://www.lmz-bw.de/21-ki-lernideen)
+- Unterrichtseinheit: [Wie künstliche Intelligenz unsere Welt verändert](https://ed.spiegel.de/unterrichtsmaterial/wie-kuenstliche-intelligenz-unsere-welt-veraendert-unterrichtseinheit-zu-ki-ab-klasse-6)
+- [Entwicklung von KI](https://www.youtube.com/watch?v=UX_Od_0_4as)
+- [iPad - erste Schritte - Hilfen - Tipps](https://lfbra.padlet.org/Anna_Donadell/ipad-erste-schritte-hilfen-tipps-vm30vlqj4x712182)
 
 ## Fortbildungen
-
-## Fortbildungsübersicht
+- Moodle Selbstlernkurs zu [Zeitgemäße Prüfungskultur](https://402000.logineonrw-lms.de/course/view.php?id=200)
 
 ## Fortbildungsübersicht
 
