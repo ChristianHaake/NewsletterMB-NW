@@ -7,10 +7,45 @@ Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum
 Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
 
 ## Interessante Artikel
+- [](https://digitalcourage.de/digitale-selbstverteidigung/wer-gehoert-zu-wem)
+- [Workflows mit Künstlicher Intelligenz](https://joschafalck.de/workflows-mit-ki/)
+- [nforderungen an ein Schulgebäude - Dr Otto Seydel](https://www.youtube.com/watch?v=Q_DFb5i5ZNY)
+- [Kommt die Arbeitszeiterfassung für Lehrerinnen und Lehrer?](https://deutsches-schulportal.de/bildungswesen/kommt-die-arbeitszeiterfassung-fuer-lehrerinnen-und-lehrer/)
+- [Fotoverbot bei der Einschulung](https://www.dr-datenschutz.de/fotoverbot-bei-der-einschulung/)
+- [Themenheft: Selbstreguliertes Lernen fördern](https://www.edu.sot.tum.de/suf/fuer-lehrkraefte/selbstreguliertes-lernen/themenheft-selbstreguliertes-lernen-foerdern/)
+- [Fehlvorstellungen von Lehrpersonen, also unsere Voreingenommenheiten](https://view.genial.ly/6421e15fb6a35a0019c4eef4/interactive-content-psychologie-furs-klassenzimmer) von Sebastian Eisele
+- [Digitale Lernaufgaben erstellen](https://mebis.bycs.de/kategorien/mediendidaktik/themen-im-fokus-md/digla)
 
 ## Materialtipps
+- [Lebendig und kräftig und schärfer I Ein Gebets- und Andachtsbuch](https://material.rpi-virtuell.de/material/lebendig-und-kraeftig-und-schaerfer-i-ein-gebets-und-andachtsbuch/)
+- [Leraningsapps zu Satzgliedern](https://learningapps.org/view16435425)
+- [Die Unternehmensbrater](https://mundo.schule/source/6512bb5222abea00794ab259)
+  Die Serie dient als story-basierter Aufsatzpunkt für die Vermittlung und Diskussion von betriebswirtschaftlichen Inhalten. Auf Basis einer kurzweiligen und zielgruppenorientierten Geschichte werden praxisorientiert Fragen aus dem betrieblichen Alltag – in teilweise leicht überzeichneter Form – aufgeworfen. Dies dient einerseits dem niedrigschwelligen Einstieg in das Themengebiet und erlaubt es andererseits im späteren Lernprozess zahlreiche Querverweise zu weiteren Lernelementen zu konstruieren.
+- [SCHOOLCRIME – WENN DAS SMARTPHONE ZUR WAFFE WIRD](https://www.smz-stuttgart.de/schoolcrime)
+  „Hakenkreuze und Gewaltvideos: Was Kinder posten” sendete vor kurzem der NDR, „Immer mehr Schüler verbreiten Kinderpornografie” titelten die Stuttgarter Nachrichten. Was für die einen nur eine Schlagzeile ist, ist für viele Lehrerinnen und Lehrer Alltag. Illegale Inhalte und Aktionen sind mehr und mehr Teil des Schul-Alltags.
+- [Jugendliche klären auf: Pornografie, Sexting, Online-Dating](https://www.klicksafe.de/news/jugendliche-klaeren-auf-pornografie-sexting-online-dating)
+- [Informatik-Biber Klasse 3 / 4](https://learningapps.org/display?v=pkhex1u1c20)
+- [Unterrichtsmaterial zu Abzocke im Netz](https://www.klicksafe.de/news/neues-unterrichtsmaterial-zu-abzocke-im-netz)
+- [AUF DEM WEG ZU DIGITALER RESILIENZ?](https://www.vodafone-stiftung.de/wp-content/uploads/2023/09/Auf_dem_Weg_zu_digitaler_Resillienz-1.pdf)
+- [Der eduScrum Guide](https://drive.google.com/file/d/1-96nRYSK8tcxN_SrBXkfnFFEfRcJH-zC/view)
+- [Collaborative Writing • Book Creator in aller Kürze](https://read.bookcreator.com/5l70Te396zaCAWrd6EeQEatJsXk1/8urwUNKkSw-oxnRmXR35dw/hbuKn80fROK5vaF6IToLwQ) von Doris Schuppe
+- [Hörspiele erstellen](https://padlet.com/marc_albrechthermanns/h-rspiele-erstellen-i4ml32emdoby)
+- [Digitale Grundbildung Arbeitsheft für das 3. Jahr](https://bankhoferedu.com/2023/11/02/digitale-grundbildung-arbeitsheft-fuer-das-3-jahr/)
 
 ## Tools und mehr
+- [Erklärvideos zur Bedienung der App "Sprachmemo](https://moodle1.lmz-bw.de/moodle/course/view.php?id=220&section=1#tabs-tree-start)
+- [SitzplanDigital.de](https://sitzplandigital.de)
+- [Podcasts erstellen - Ressourcen und Empfehlungen](https://padlet.com/aliciabankhofer/podcasts-erstellen-ressourcen-und-empfehlungen-naknp4fvkd0wymg5)
+- [aidio – AI-powered text to speech conversion trough OpenAI, Play.HT and Elevenlabs](https://herrmayr.de/aidio-ai-powered-text-to-speech-conversion-trough-openai-play-ht-and-elevenlabs/) -> Potential!!!!
+
+
+## KI und so weiter
+- [Künstliche Intelligenz (KI) in der Schule](https://www.bildungsserver.de/kuenstliche-intelligenz-in-der-schule-12990-de.html) - Info Seite mit vielen Links
+- [Wie KI Deutsch- und Fremdsprachenlehrkräfte unterstützen kann](https://padlet.com/hpr1/wie-ki-deutsch-und-fremdsprachenlehrkr-fte-unterst-tzen-kann-aouz58rmo08o1cfl)
+- [My take on custom GPTs for education](https://bankhoferedu.com/2023/11/15/my-take-on-custom-gpts-for-education/)
+- [Creative ideas to use AI in education](https://creativehecommunity.wordpress.com/2023/06/23/oa-book-101-creative-ideas-to-use-ai-in-education/)
+- [OER und CC-Lizenzen bei generativer KI](https://irights.info/artikel/oer-cc-lizenzen-generative-ki/32090)
+- [Prompts für die Schule - Überblick Frameworks und Methoden](https://tools.fobizz.com/pinboard/public_boards/378a7794-e715-4e95-bb64-5e4dc70ddd75?token=7b202970d0a20102ab57625d8e227da1)
 
 ## Fortbildungen
 
