@@ -63,7 +63,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [ChatGPT – Die besten Prompts für Schüler:innen](https://astridbruggemann.com/chatgpt-die-besten-prompts-fuer-schuelerinnen/)
 
 ## Fortbildungen
-[Vision Schule - Online](https://app.guestoo.de/public/event/01b452e7-d8d8-4f96-96e2-22cfff2ada86)
+- [Vision Schule - Online](https://app.guestoo.de/public/event/01b452e7-d8d8-4f96-96e2-22cfff2ada86)
 
 ## Fortbildungsübersicht
 
