@@ -7,7 +7,7 @@ Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum
 Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
 
 ## Interessante Artikel
-- [](https://digitalcourage.de/digitale-selbstverteidigung/wer-gehoert-zu-wem)
+- [Wer gehört zu wem?](https://digitalcourage.de/digitale-selbstverteidigung/wer-gehoert-zu-wem)
 - [Workflows mit Künstlicher Intelligenz](https://joschafalck.de/workflows-mit-ki/)
 - [nforderungen an ein Schulgebäude - Dr Otto Seydel](https://www.youtube.com/watch?v=Q_DFb5i5ZNY)
 - [Kommt die Arbeitszeiterfassung für Lehrerinnen und Lehrer?](https://deutsches-schulportal.de/bildungswesen/kommt-die-arbeitszeiterfassung-fuer-lehrerinnen-und-lehrer/)
@@ -63,8 +63,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [ChatGPT – Die besten Prompts für Schüler:innen](https://astridbruggemann.com/chatgpt-die-besten-prompts-fuer-schuelerinnen/)
 
 ## Fortbildungen
-
-## Fortbildungsübersicht
+[Vision Schule - Online](https://app.guestoo.de/public/event/01b452e7-d8d8-4f96-96e2-22cfff2ada86)
 
 ## Fortbildungsübersicht
 
