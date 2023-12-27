@@ -44,6 +44,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Podcasts erstellen - Ressourcen und Empfehlungen](https://padlet.com/aliciabankhofer/podcasts-erstellen-ressourcen-und-empfehlungen-naknp4fvkd0wymg5)
 - [aidio – AI-powered text to speech conversion trough OpenAI, Play.HT and Elevenlabs](https://herrmayr.de/aidio-ai-powered-text-to-speech-conversion-trough-openai-play-ht-and-elevenlabs/) -> Potential!!!!
 - Musicfox [Kostenlose gemafreie Musik](https://www.musicfox.com/info/kostenlose-gemafreie-musik/)
+- Marc Seegers [Book Creator Portfolio Anleitungen](https://drive.google.com/drive/folders/1iAKHGRtdJfdRVgMweaiO3jgQzp28Steh)
 
 
 ## KI und so weiter
@@ -57,6 +58,9 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [ChatGPT im Hörsaal: Wie Hochschulen auf generative KI-Werkzeuge reagieren](https://www.heise.de/hintergrund/ChatGPT-im-Hoersaal-Wie-Hochschulen-auf-generative-KI-Werkzeuge-reagieren-8431537.html)
 - Handreichung aus BY [Künstliche Intelligenz (KI) im Wissenscha4spropädeu;schen Seminar (W-Seminar)](https://www.isb.bayern.de/fileadmin/user_upload/Gymnasium/Oberstufe/W-Seminar_G9/ISB_W-Seminar_KI-Handreichung.pdf)
 - [ChatGPT /KI & wissenschaftliches Arbeiten – Gedanken zur Facharbeit im Seminarfach](https://unterrichten.digital/2023/11/26/chatgpt-ki-facharbeit-hausarbeit-seminarfach/)
+- [OpenAI veröffentlicht Prompt-Guide für bessere ChatGPT- und LLM-Performance](https://the-decoder.de/openai-veroeffentlicht-prompt-guide-fuer-bessere-chatgpt-und-llm-performance/)
+- [Differenzierung mit KI](https://www.taskcards.de/#/board/f5802959-bedc-40a4-a904-a94fb92f2fa5/view?token=75848707-b94d-4e18-b6f0-06edfc94a7b5)
+- [ChatGPT – Die besten Prompts für Schüler:innen](https://astridbruggemann.com/chatgpt-die-besten-prompts-fuer-schuelerinnen/)
 
 ## Fortbildungen
 
