@@ -1,10 +1,14 @@
 # Newsletter von der Medienberatung Nord-West - Ausgabe #21
 
-Herzlich willkommen zur nächsten Ausgabe unseres Newsletters. Ferien sind in Sicht!
+Herzlich willkommen zur nächsten Ausgabe unseres Newsletters. 
 
-Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum digitalen Unterrichten darstellen. Sicherlich ist nicht alles gleichermaßen umsetzbar oder sofort nutzbar, soll aber Denkanstöße liefern.
+wir blicken auf ein Jahr voller spannender Entwicklungen und Veränderungen zurück, die nicht nur unsere Welt, sondern auch den Bildungsbereich nachhaltig prägen. Ein herausragendes Beispiel ist ChatGPT, ein fortschrittliches KI-System, das neue Möglichkeiten in der Kommunikation und im Informationsaustausch eröffnet. Zudem erleben wir endlich, wie die aus dem DigitalPakt stammenden Technologien langsam aber sicher ihren Weg in unsere Schulen finden. Dies markiert einen Wendepunkt in der Digitalisierung des Bildungswesens.
 
-Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
+Diese Sammlung von hoffentlich interessanten Hinweisen zum digitalen Unterrichten soll Ihnen als Anregung dienen. Sicherlich ist nicht alles gleichermaßen umsetzbar oder sofort nutzbar, aber unsere Inhalte sollen als Denkanstöße dienen und Ihnen neue Perspektiven für den digitalen Wandel im Bildungswesen eröffnen.
+
+Allerdings stehen unsere Schulen auch vor vielen Herausforderungen. Die Integration neuer Technologien, die Anpassung von Lehrplänen und die fortlaufende Professionalisierung des Lehrpersonals sind nur einige der Hürden, die es zu meistern gilt. Es ist eine Zeit des Wandels und der Anpassung, die von allen Beteiligten Flexibilität und Engagement verlangt.
+
+In dieser Ausgabe unseres Newsletters möchten wir diese Themen vertiefen und Ihnen wertvolle Einblicke und Informationen bieten, die Sie auf diesem Weg unterstützen.
 
 ## Interessante Artikel
 - [Wer gehört zu wem?](https://digitalcourage.de/digitale-selbstverteidigung/wer-gehoert-zu-wem)
@@ -73,11 +77,13 @@ Zahlreiche kostenlose Online-Angebote des NLQ: Von Konzeptentwicklung über Plan
 - [Oldenburger Fortbildungszentrum (OFZ)](https://uol.de/ofz/fortbildungsangebot)
 Fortbildungsveranstaltungen des OFZ zum Thema Medienkompetenzen
 
--[Kompetenzzentrum für Lehrkräftefortbildung in Aurich](https://bildung.ostfriesischelandschaft.de/lfb/)
-Die Ostfriesische Landschaft in Aurich bietet regelmäßig ein abwechslungsreiches Fortbildungsprogramm in Zusammenarbeit mit der Medienberatung und den Medienzentren Aurich und Norden an. Besonders beachtenswert ist der Digitale Stammtisch, der jeden ersten Montag im Monat stattfindet. Hier können alle Fragen zur digitalen Bildung gestellt werden. In Regel sind der zwei Experten und eine Expertin anwesend, sodass beinahe alle Fragen sofort geklärt werden können.
+- [Kompetenzzentrum für Lehrkräftefortbildung in Aurich](https://bildung.ostfriesischelandschaft.de/lfb/)
+Die Ostfriesische Landschaft in Aurich bietet regelmäßig ein abwechslungsreiches Fortbildungsprogramm in Zusammenarbeit mit der Medienberatung und den Medienzentren Aurich und Norden an.
 
 
-Alles Gute und bis bald!
+Abschließend möchten wir Ihnen und Ihren Familien einen guten Rutsch ins neue Jahr wünschen. Möge 2024 ein Jahr voller Gesundheit, Glück und erfolgreicher Bildungsinitiativen sein.
+
+Mit besten Grüßen
 
 Christian Haake, Cord Gudegast und Matthias Ottmann
 
