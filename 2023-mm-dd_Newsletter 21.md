@@ -1,4 +1,4 @@
-# Newsletter von der Medienberatung Nord-West - Ausgabe #14
+# Newsletter von der Medienberatung Nord-West - Ausgabe #21
 
 Herzlich willkommen zur nächsten Ausgabe unseres Newsletters. Ferien sind in Sicht!
 
