@@ -5,6 +5,7 @@ Auf der folgenden Seite finden Sie Newsletter mit interessanten Links und Artike
 Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/NewsletterMB-NW) oder [Substack](https://medienberatungnordwest.substack.com/publish/posts)
 
 # 2023
+- [Newsletter 21](/2023-12-29_Newsletter%2021.md)
 - [Newsletter 20](/2023-10-30_Newsletter%2020.md)
 - [Newsletter 19](/2023-10-10_Newsletter%2019.md)
 - [Newsletter 18](/2023-06-09_Newsletter%2018.md)
