@@ -9,6 +9,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 ## Interessante Artikel
 
 ## Materialtipps
+- [Auf die Sätze, fertig, los! - Sätze und Satzarten wiederholen](https://learningapps.org/32228775) von Julia Glage
 
 ## Tools und mehr
 
