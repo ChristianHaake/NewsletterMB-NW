@@ -10,8 +10,19 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 
 ## Materialtipps
 - [Auf die Sätze, fertig, los! - Sätze und Satzarten wiederholen](https://learningapps.org/32228775) von Julia Glage
+- https://mzml.taskcards.app/#/board/6c0db483-b2ae-49c6-b590-e9c2727af9c2/view?token=aadbf359-8dc9-40b9-8cf8-c1ca4031d8fe
+- Taskcard von Georg Schlamp [Oral exam - practice page](https://mzml.taskcards.app/#/board/6c0db483-b2ae-49c6-b590-e9c2727af9c2/view?token=aadbf359-8dc9-40b9-8cf8-c1ca4031d8fe)
 
 ## Tools und mehr
+
+## KI
+- [LERNIDEEN IN DER SESAM-MEDIATHEK FINDEN](https://www.lmz-bw.de/21-ki-lernideen)
+- https://bankhoferedu.com/2023/12/19/bilder-erzeugenmitki_imunterrichterarbeiten/
+- https://www.hep-verlag.ch/aktuelles/impuls-kuenstliche-intelligenz-ki - Unterrichtsmaterial
+- https://padlet.com/hpr1/wie-ki-deutsch-und-fremdsprachenlehrkr-fte-unterst-tzen-kann-aouz58rmo08o1cfl
+- https://padlet.com/traugottboettinger/universal-design-for-learning-diklusiv-onz20ujzwcjptj23 - UDL dinklusiv mit Beispielen zu allen Bereichen
+- https://leaschulz.com/ki-und-inklusion/ 
+- https://padlet.com/dettwilereducation/ki-im-unterricht-ora5emt9ceyumhze - Umfangreiches Update erhalten
 
 ## Fortbildungen
 
