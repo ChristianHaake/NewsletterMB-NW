@@ -7,6 +7,10 @@ Dieser Newsletter soll eine Sammlung von hoffentlich interessanten Hinweisen zum
 Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatung des NLQ weisen.
 
 ## Interessante Artikel
+- [The road ahead reaches a turning point in 2024](https://www.gatesnotes.com/The-Year-Ahead-2024?utm_source=www.superhuman.ai&utm_medium=newsletter&utm_campaign=bill-gates-predict-ai-will-be-the-shaping-force-in-2024)
+  Entdecken Sie in Bill Gates' Artikel 'The Year Ahead: 2024' auf GatesNotes, wie Künstliche Intelligenz (KI) die Innovationslandschaft umgestaltet. Gates beleuchtet die     Auswirkungen der KI auf die globale Gesundheit, die Rolle des Darmmikrobioms im Kampf gegen Unterernährung und die Bedeutung der Kernenergie im Kontext des Klimawandels. Ein faszinierender Einblick in die Zukunft der Technologie und ihre Rolle bei der Lösung weltweiter Herausforderungen.
+
+
 
 ## Materialtipps
 - [Auf die Sätze, fertig, los! - Sätze und Satzarten wiederholen](https://learningapps.org/32228775) von Julia Glage
