@@ -9,24 +9,43 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 ## Interessante Artikel
 - [The road ahead reaches a turning point in 2024](https://www.gatesnotes.com/The-Year-Ahead-2024?utm_source=www.superhuman.ai&utm_medium=newsletter&utm_campaign=bill-gates-predict-ai-will-be-the-shaping-force-in-2024)
   Entdecken Sie in Bill Gates' Artikel 'The Year Ahead: 2024' auf GatesNotes, wie Künstliche Intelligenz (KI) die Innovationslandschaft umgestaltet. Gates beleuchtet die     Auswirkungen der KI auf die globale Gesundheit, die Rolle des Darmmikrobioms im Kampf gegen Unterernährung und die Bedeutung der Kernenergie im Kontext des Klimawandels. Ein faszinierender Einblick in die Zukunft der Technologie und ihre Rolle bei der Lösung weltweiter Herausforderungen.
+- [Lernförderliches Feedback mit Künstlicher Intelligenz](https://unterrichten.digital/2024/01/24/feedback-mit-kunstlicher-intelligenz-ki/)
+- [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
 
 
 
 ## Materialtipps
+- Schulentwicklung [Liberating-Structures](https://liberatingstructures.de/liberating-structures-menue/)
 - [Auf die Sätze, fertig, los! - Sätze und Satzarten wiederholen](https://learningapps.org/32228775) von Julia Glage
 - https://mzml.taskcards.app/#/board/6c0db483-b2ae-49c6-b590-e9c2727af9c2/view?token=aadbf359-8dc9-40b9-8cf8-c1ca4031d8fe
 - Taskcard von Georg Schlamp [Oral exam - practice page](https://mzml.taskcards.app/#/board/6c0db483-b2ae-49c6-b590-e9c2727af9c2/view?token=aadbf359-8dc9-40b9-8cf8-c1ca4031d8fe)
+- [Was ist Was - Demokratie Buch](https://www.tessloff.com/Demokratie.html)
+- [Dein gutes Recht](https://www.blz.bayern.de/dein-gutes-recht.html)
+  Die Geschichten hinter unseren Gesetzen
+  Im Podcast „Dein gutes Recht“ erzählen Jurist und Autor Bijan Moini und Moderatorin Shirin Kasraeian in acht Folgen von Frauen und Männern, die durch ihre Heldentaten oder Verbrechen unser Recht bis heute geprägt haben. Und sie erklären, welche Geschichte unsere Grundrechte haben und was unsere Gesetze eigentlich konkret bedeuten. Es geht dabei um Leben und Tod, um Gleichheit, Freiheit und Demokratie, um Willkür und Rache, um Krieg und Frieden.
+- Grundschule [Kit kennt sich aus!](https://www.klima-kit.de)
+- Material zu Nachrichtennutzung und -kompetenz [Use the news](https://www.usethenews.de/de)
+- (Islamismus)[https://www.bpb.de/shop/buecher/schriftenreihe/543905/islamismus/]
+- [Unterstützungsmaterialien zum grundlegenden Umgang mit dem iPad](https://edulab.gitbook.io/ipad-grundlagen/) von den Medienberatern für den Kreis Steinfurt
+- [INFORMATIK ALS ABENTEUER – UNTERRICHTSMATERIAL FÜR DIE KLASSENSTUFEN 3 UND 4](https://www.lmz-bw.de/landesmedienzentrum/aktuelles/aktuelle-meldungen/detailseite/informatik-als-abenteuer-unterrichtsmaterial-fuer-die-klassenstufe-3-und-4)
+- Nachrichten Entdecken und Verstehen mit [FINNreporter im Unterricht](https://reporter.fragfinn.de/finnreporter-im-unterricht/)
+- Selbstmotivation lernen - [Lernen lernen](https://www.dguv-lug.de/sekundarstufe-i/sozialkundepowi/selbstmotivation-lernen/)
 
 ## Tools und mehr
 
 ## KI
+- Handreichung[Künstliche Intelligenz (KI) im Wissenschaftspropädeutischen Seminar](https://www.isb.bayern.de/schularten/gymnasium/oberstufe/w-seminar/)
 - [LERNIDEEN IN DER SESAM-MEDIATHEK FINDEN](https://www.lmz-bw.de/21-ki-lernideen)
 - https://bankhoferedu.com/2023/12/19/bilder-erzeugenmitki_imunterrichterarbeiten/
 - https://www.hep-verlag.ch/aktuelles/impuls-kuenstliche-intelligenz-ki - Unterrichtsmaterial
 - https://padlet.com/hpr1/wie-ki-deutsch-und-fremdsprachenlehrkr-fte-unterst-tzen-kann-aouz58rmo08o1cfl
 - https://padlet.com/traugottboettinger/universal-design-for-learning-diklusiv-onz20ujzwcjptj23 - UDL dinklusiv mit Beispielen zu allen Bereichen
 - https://leaschulz.com/ki-und-inklusion/ 
-- https://padlet.com/dettwilereducation/ki-im-unterricht-ora5emt9ceyumhze - Umfangreiches Update erhalten
+- https://padlet.com/dettwilereducation/ki-im-unterricht-ora5emt9ceyumhze   
+  Umfangreiches Update erhalten
+- [Pädagogischer Ratgeber zu digitalen Spielen.](https://spieleratgeber-nrw.de)
+- [Künstliche Intelligenz im Kunstunterricht? - Eine Unterrichtsidee](https://schulki.de/blog/kuenstliche-intelligenz-im-kunstunterricht-eine-unterrichtsidee)
+- [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
 
 ## Fortbildungen
 
