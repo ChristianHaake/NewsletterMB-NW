@@ -47,14 +47,11 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Künstliche Intelligenz im Kunstunterricht? - Eine Unterrichtsidee](https://schulki.de/blog/kuenstliche-intelligenz-im-kunstunterricht-eine-unterrichtsidee)
 - [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
 
-## Fortbildungen
 
 ## Fortbildungsübersicht
 
-## Fortbildungsübersicht
-
-- [VeDaB](https://vedab.de/veran_suche.php?sachgebiet=&schulform=&such=Medienbildung&utm_campaign=Newsletter%20von%20der%20Medienberatung%20Nord-West&utm_medium=email&utm_source=Revue%20newsletter&veranstalter=)
-Zahlreiche kostenlose Online-Angebote des NLQ: Von Konzeptentwicklung über Planung von Online-Unterricht bis zu digitalen Tools.
+- [NLC](nlc.info)
+Zahlreiche kostenlose Online-Angebote des NLQ: Von Konzeptentwicklung über Planung von hybriden-Unterricht bis zu digitalen Tools.
 
 - [Oldenburger Fortbildungszentrum (OFZ)](https://uol.de/ofz/fortbildungsangebot)
 Fortbildungsveranstaltungen des OFZ zum Thema Medienkompetenzen
