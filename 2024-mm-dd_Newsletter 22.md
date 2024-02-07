@@ -10,9 +10,9 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [The road ahead reaches a turning point in 2024](https://www.gatesnotes.com/The-Year-Ahead-2024?utm_source=www.superhuman.ai&utm_medium=newsletter&utm_campaign=bill-gates-predict-ai-will-be-the-shaping-force-in-2024)
   Entdecken Sie in Bill Gates' Artikel 'The Year Ahead: 2024' auf GatesNotes, wie Künstliche Intelligenz (KI) die Innovationslandschaft umgestaltet. Gates beleuchtet die     Auswirkungen der KI auf die globale Gesundheit, die Rolle des Darmmikrobioms im Kampf gegen Unterernährung und die Bedeutung der Kernenergie im Kontext des Klimawandels. Ein faszinierender Einblick in die Zukunft der Technologie und ihre Rolle bei der Lösung weltweiter Herausforderungen.
 - [Lernförderliches Feedback mit Künstlicher Intelligenz](https://unterrichten.digital/2024/01/24/feedback-mit-kunstlicher-intelligenz-ki/)
+  Im neuesten Artikel auf "Unterrichten Digital" stellt Joscha Falck vor, wie Künstliche Intelligenz (KI) für lernförderliches Feedback im Unterricht eingesetzt werden kann. Er betont das Potential von KI-Tools wie ChatGPT, die Lehrkräfte bei der Bereitstellung von individuellem und formativem Feedback unterstützen, was sowohl die Unterrichtsqualität verbessert als auch Lehrkräfte entlastet. Falck diskutiert verschiedene Einsatzmöglichkeiten von KI, darunter individuelle Tutorsysteme, KI-basierte Textüberarbeitung und kriteriengeleitetes Feedback, und gibt praktische Tipps zur Integration dieser Technologien in den Unterricht.
 - [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
-
-
+  Der Artikel im "Magazin Plan BD" beschäftigt sich mit der Rolle von KI-Tools im Geschichtsunterricht. Kai Wörner schildert die Veränderungen, die durch den Einsatz von KI, wie ChatGPT, entstehen, insbesondere in Bezug auf die Unterrichtsgestaltung und Schülerengagement. Er beleuchtet die Möglichkeiten, den Lehrstoff zu bereichern und das Lernen individueller zu gestalten, wobei er die Bedeutung des kritischen Umgangs mit diesen Technologien hervorhebt.
 
 ## Materialtipps
 - Schulentwicklung [Liberating-Structures](https://liberatingstructures.de/liberating-structures-menue/)
@@ -31,8 +31,6 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - Nachrichten Entdecken und Verstehen mit [FINNreporter im Unterricht](https://reporter.fragfinn.de/finnreporter-im-unterricht/)
 - Selbstmotivation lernen - [Lernen lernen](https://www.dguv-lug.de/sekundarstufe-i/sozialkundepowi/selbstmotivation-lernen/)
 
-## Tools und mehr
-
 ## KI
 - Handreichung[Künstliche Intelligenz (KI) im Wissenschaftspropädeutischen Seminar](https://www.isb.bayern.de/schularten/gymnasium/oberstufe/w-seminar/)
 - [LERNIDEEN IN DER SESAM-MEDIATHEK FINDEN](https://www.lmz-bw.de/21-ki-lernideen)
@@ -46,7 +44,6 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Pädagogischer Ratgeber zu digitalen Spielen.](https://spieleratgeber-nrw.de)
 - [Künstliche Intelligenz im Kunstunterricht? - Eine Unterrichtsidee](https://schulki.de/blog/kuenstliche-intelligenz-im-kunstunterricht-eine-unterrichtsidee)
 - [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
-
 
 ## Fortbildungsübersicht
 
