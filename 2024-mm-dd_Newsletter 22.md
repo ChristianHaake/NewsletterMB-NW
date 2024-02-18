@@ -15,6 +15,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
   Der Artikel im "Magazin Plan BD" beschäftigt sich mit der Rolle von KI-Tools im Geschichtsunterricht. Kai Wörner schildert die Veränderungen, die durch den Einsatz von KI, wie ChatGPT, entstehen, insbesondere in Bezug auf die Unterrichtsgestaltung und Schülerengagement. Er beleuchtet die Möglichkeiten, den Lehrstoff zu bereichern und das Lernen individueller zu gestalten, wobei er die Bedeutung des kritischen Umgangs mit diesen Technologien hervorhebt.
 
 ## Materialtipps
+- ungalubelich viele Tutorials zu iOS / iPadOS [Jacob’s Quick.Tips](https://www.jacobsquick.tips)
 - Schulentwicklung [Liberating-Structures](https://liberatingstructures.de/liberating-structures-menue/)
 - [Auf die Sätze, fertig, los! - Sätze und Satzarten wiederholen](https://learningapps.org/32228775) von Julia Glage
 - https://mzml.taskcards.app/#/board/6c0db483-b2ae-49c6-b590-e9c2727af9c2/view?token=aadbf359-8dc9-40b9-8cf8-c1ca4031d8fe
@@ -30,10 +31,16 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [INFORMATIK ALS ABENTEUER – UNTERRICHTSMATERIAL FÜR DIE KLASSENSTUFEN 3 UND 4](https://www.lmz-bw.de/landesmedienzentrum/aktuelles/aktuelle-meldungen/detailseite/informatik-als-abenteuer-unterrichtsmaterial-fuer-die-klassenstufe-3-und-4)
 - Nachrichten Entdecken und Verstehen mit [FINNreporter im Unterricht](https://reporter.fragfinn.de/finnreporter-im-unterricht/)
 - Selbstmotivation lernen - [Lernen lernen](https://www.dguv-lug.de/sekundarstufe-i/sozialkundepowi/selbstmotivation-lernen/)
+- [Unterrichtsmaterial: Erste Schritte mit der Programmiersprache Python](https://appcamps.de/unterrichtsmaterial/programmieren-mit-python/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
+
+## Tools
+
+-[Rewordify.com](https://rewordify.com) is powerful, free, online software that improves reading, learning, and teaching
 
 ## KI
 - Handreichung[Künstliche Intelligenz (KI) im Wissenschaftspropädeutischen Seminar](https://www.isb.bayern.de/schularten/gymnasium/oberstufe/w-seminar/)
 - [LERNIDEEN IN DER SESAM-MEDIATHEK FINDEN](https://www.lmz-bw.de/21-ki-lernideen)
+- [KI Kompass](https://www.hiig.de/ki-kompass/)
 - https://bankhoferedu.com/2023/12/19/bilder-erzeugenmitki_imunterrichterarbeiten/
 - https://www.hep-verlag.ch/aktuelles/impuls-kuenstliche-intelligenz-ki - Unterrichtsmaterial
 - https://padlet.com/hpr1/wie-ki-deutsch-und-fremdsprachenlehrkr-fte-unterst-tzen-kann-aouz58rmo08o1cfl
