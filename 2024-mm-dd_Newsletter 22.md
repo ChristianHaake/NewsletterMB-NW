@@ -13,6 +13,9 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
   Im neuesten Artikel auf "Unterrichten Digital" stellt Joscha Falck vor, wie Künstliche Intelligenz (KI) für lernförderliches Feedback im Unterricht eingesetzt werden kann. Er betont das Potential von KI-Tools wie ChatGPT, die Lehrkräfte bei der Bereitstellung von individuellem und formativem Feedback unterstützen, was sowohl die Unterrichtsqualität verbessert als auch Lehrkräfte entlastet. Falck diskutiert verschiedene Einsatzmöglichkeiten von KI, darunter individuelle Tutorsysteme, KI-basierte Textüberarbeitung und kriteriengeleitetes Feedback, und gibt praktische Tipps zur Integration dieser Technologien in den Unterricht.
 - [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
   Der Artikel im "Magazin Plan BD" beschäftigt sich mit der Rolle von KI-Tools im Geschichtsunterricht. Kai Wörner schildert die Veränderungen, die durch den Einsatz von KI, wie ChatGPT, entstehen, insbesondere in Bezug auf die Unterrichtsgestaltung und Schülerengagement. Er beleuchtet die Möglichkeiten, den Lehrstoff zu bereichern und das Lernen individueller zu gestalten, wobei er die Bedeutung des kritischen Umgangs mit diesen Technologien hervorhebt.
+- [Verhalten wie ein Mensch – ChatGPT knackt Psychotest](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chatgpt-besteht-turing-test-zu-menschlichem-verhalten-a-0af83891-e0ce-46cc-baf5-e0dae4caadee)
+- [»Ja, ich will« – die datenschutzrechtliche Einwilligung im schulischen Kontext](https://datenschutz.nibis.de/2024/02/20/ja-ich-will-diedatenschutzrechtliche-einwilligung-imschulischen-kontext/)
+- [Macht künstliche Intelligenz Lehrpersonen zu Lerncoaches?](https://www.bildungschweiz.ch/detail/macht-kuenstliche-intelligenz-lehrpersonen-zu-lerncoaches)
 
 ## Materialtipps
 - ungalubelich viele Tutorials zu iOS / iPadOS [Jacob’s Quick.Tips](https://www.jacobsquick.tips)
@@ -37,6 +40,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 ## Tools
 
 - [Rewordify.com](https://rewordify.com) is powerful, free, online software that improves reading, learning, and teaching
+- [WRITING IDEAS AT THE FLIP OF A CARD](https://davebirss.com/writing-ideas/)
 - super einfache und gute Scanner App (einmal Zahlung) [Simple Scan](https://apps.apple.com/us/app/simple-scan-quick-scanner/id6477965455?ign-mpt=uo%3D4)
 
 ## KI
@@ -53,6 +57,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - [Pädagogischer Ratgeber zu digitalen Spielen.](https://spieleratgeber-nrw.de)
 - [Künstliche Intelligenz im Kunstunterricht? - Eine Unterrichtsidee](https://schulki.de/blog/kuenstliche-intelligenz-im-kunstunterricht-eine-unterrichtsidee)
 - [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
+- [Eine KI-Handreichung: KI-Einsatz In Der Schule](https://www.fraustier.de/ki-handreichung-fuer-die-schule/)
 
 ## Fortbildungsübersicht
 
