@@ -25,6 +25,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
   Die Geschichten hinter unseren Gesetzen
   Im Podcast „Dein gutes Recht“ erzählen Jurist und Autor Bijan Moini und Moderatorin Shirin Kasraeian in acht Folgen von Frauen und Männern, die durch ihre Heldentaten oder Verbrechen unser Recht bis heute geprägt haben. Und sie erklären, welche Geschichte unsere Grundrechte haben und was unsere Gesetze eigentlich konkret bedeuten. Es geht dabei um Leben und Tod, um Gleichheit, Freiheit und Demokratie, um Willkür und Rache, um Krieg und Frieden.
 - Grundschule [Kit kennt sich aus!](https://www.klima-kit.de)
+- Interaktive Medien zu unterrschiedlichen Themen (von TikTok bis in-Game-Käufe) von [Klicksafe - Interaktive Medien](https://www.klicksafe.de/interaktive-medien)
 - Material zu Nachrichtennutzung und -kompetenz [Use the news](https://www.usethenews.de/de)
 - (Islamismus)[https://www.bpb.de/shop/buecher/schriftenreihe/543905/islamismus/]
 - [Unterstützungsmaterialien zum grundlegenden Umgang mit dem iPad](https://edulab.gitbook.io/ipad-grundlagen/) von den Medienberatern für den Kreis Steinfurt
