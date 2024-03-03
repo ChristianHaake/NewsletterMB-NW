@@ -36,7 +36,8 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 
 ## Tools
 
--[Rewordify.com](https://rewordify.com) is powerful, free, online software that improves reading, learning, and teaching
+- [Rewordify.com](https://rewordify.com) is powerful, free, online software that improves reading, learning, and teaching
+- super einfache und gute Scanner App (einmal Zahlung) [Simple Scan](https://apps.apple.com/us/app/simple-scan-quick-scanner/id6477965455?ign-mpt=uo%3D4)
 
 ## KI
 - Handreichung[Künstliche Intelligenz (KI) im Wissenschaftspropädeutischen Seminar](https://www.isb.bayern.de/schularten/gymnasium/oberstufe/w-seminar/)
