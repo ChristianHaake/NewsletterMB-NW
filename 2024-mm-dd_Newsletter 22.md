@@ -19,6 +19,7 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 
 ## Materialtipps
 - ungalubelich viele Tutorials zu iOS / iPadOS [Jacob’s Quick.Tips](https://www.jacobsquick.tips)
+- [DigiBits - Medienkompetenz im Fachunterricht](https://www.digibits.de/)
 - Schulentwicklung [Liberating-Structures](https://liberatingstructures.de/liberating-structures-menue/)
 - [Auf die Sätze, fertig, los! - Sätze und Satzarten wiederholen](https://learningapps.org/32228775) von Julia Glage
 - https://mzml.taskcards.app/#/board/6c0db483-b2ae-49c6-b590-e9c2727af9c2/view?token=aadbf359-8dc9-40b9-8cf8-c1ca4031d8fe
