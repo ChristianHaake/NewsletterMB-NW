@@ -15,7 +15,17 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
   Der Artikel im "Magazin Plan BD" beschäftigt sich mit der Rolle von KI-Tools im Geschichtsunterricht. Kai Wörner schildert die Veränderungen, die durch den Einsatz von KI, wie ChatGPT, entstehen, insbesondere in Bezug auf die Unterrichtsgestaltung und Schülerengagement. Er beleuchtet die Möglichkeiten, den Lehrstoff zu bereichern und das Lernen individueller zu gestalten, wobei er die Bedeutung des kritischen Umgangs mit diesen Technologien hervorhebt.
 - [Verhalten wie ein Mensch – ChatGPT knackt Psychotest](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-chatgpt-besteht-turing-test-zu-menschlichem-verhalten-a-0af83891-e0ce-46cc-baf5-e0dae4caadee)
 - [»Ja, ich will« – die datenschutzrechtliche Einwilligung im schulischen Kontext](https://datenschutz.nibis.de/2024/02/20/ja-ich-will-diedatenschutzrechtliche-einwilligung-imschulischen-kontext/)
+- [4K-Modell: Kreativität fördern mit VR im Klassenzimmer](https://medium.com/@schnittstelle.bildung/4k-modell-kreativit%C3%A4t-f%C3%B6rdern-mit-vr-im-klassenzimmer-e6eee154ee32)
 - [Macht künstliche Intelligenz Lehrpersonen zu Lerncoaches?](https://www.bildungschweiz.ch/detail/macht-kuenstliche-intelligenz-lehrpersonen-zu-lerncoaches)
+- [Die AfD und TikTok](https://www.3sat.de/wissen/nano/240125-die-afd-und-tiktok-nano-100.html)
+
+
+--
+
+[Umfangreiche Playlist von Bildungspodcasts von Stefan Quandt](https://open.spotify.com/playlist/49TPkjFGnqJ29iUA1FgZpS?si=T5lE2V5aRSW8MwMVSnjCug&nd=1&dlsi=929332ce73f6429d)
+
+
+--
 
 ## Materialtipps
 - ungalubelich viele Tutorials zu iOS / iPadOS [Jacob’s Quick.Tips](https://www.jacobsquick.tips)
@@ -37,15 +47,19 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - Nachrichten Entdecken und Verstehen mit [FINNreporter im Unterricht](https://reporter.fragfinn.de/finnreporter-im-unterricht/)
 - Selbstmotivation lernen - [Lernen lernen](https://www.dguv-lug.de/sekundarstufe-i/sozialkundepowi/selbstmotivation-lernen/)
 - [Unterrichtsmaterial: Erste Schritte mit der Programmiersprache Python](https://appcamps.de/unterrichtsmaterial/programmieren-mit-python/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
+- [Die Toolbox](https://www.teachtoday.de/toolbox/digitales-lernspiel-zum-erwerb-von-quellenbewertungskompetenz-912) In der Toolbox finden Sie schnell und übersichtlich vielfältige Materialen zur Förderung der Medien- und Demokratiekompetenz junger Menschen im Alter von 9-16 Jahren.
+- Für iPads - [Lernpfade für Lehrkräfte](https://www.hopp-foundation.de/lernpfade/lehrer/)
 
 ## Tools
 
 - [Rewordify.com](https://rewordify.com) is powerful, free, online software that improves reading, learning, and teaching
 - [WRITING IDEAS AT THE FLIP OF A CARD](https://davebirss.com/writing-ideas/)
 - super einfache und gute Scanner App (einmal Zahlung) [Simple Scan](https://apps.apple.com/us/app/simple-scan-quick-scanner/id6477965455?ign-mpt=uo%3D4)
+- [Atome bauen](https://phet.colorado.edu/en/simulations/build-a-nucleus)
 
 ## KI
 - Handreichung[Künstliche Intelligenz (KI) im Wissenschaftspropädeutischen Seminar](https://www.isb.bayern.de/schularten/gymnasium/oberstufe/w-seminar/)
+- [Step-Back-Prompting für effizientere KI-Ergebnisse](https://schulki.de/blog/step-back-prompting-fuer-effizientere-ki-ergebnisse)
 - [LERNIDEEN IN DER SESAM-MEDIATHEK FINDEN](https://www.lmz-bw.de/21-ki-lernideen)
 - [KI Kompass](https://www.hiig.de/ki-kompass/)
 - https://bankhoferedu.com/2023/12/19/bilder-erzeugenmitki_imunterrichterarbeiten/
