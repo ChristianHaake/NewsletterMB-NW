@@ -61,8 +61,10 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - Handreichung[Künstliche Intelligenz (KI) im Wissenschaftspropädeutischen Seminar](https://www.isb.bayern.de/schularten/gymnasium/oberstufe/w-seminar/)
 - [Step-Back-Prompting für effizientere KI-Ergebnisse](https://schulki.de/blog/step-back-prompting-fuer-effizientere-ki-ergebnisse)
 - [LERNIDEEN IN DER SESAM-MEDIATHEK FINDEN](https://www.lmz-bw.de/21-ki-lernideen)
+- [Gut prompten statt perfekt schreiben? So verändert KI den Deutschunterricht](https://deutsches-schulportal.de/unterricht/gut-prompten-statt-perfekt-schreiben-so-veraendert-ki-den-deutschunterricht/)
 - [KI Kompass](https://www.hiig.de/ki-kompass/)
 - https://bankhoferedu.com/2023/12/19/bilder-erzeugenmitki_imunterrichterarbeiten/
+- [KI-Spiele für den Unterricht](https://www.thomasfelzmann.at/ki-spiele-fuer-den-unterricht/)
 - https://www.hep-verlag.ch/aktuelles/impuls-kuenstliche-intelligenz-ki - Unterrichtsmaterial
 - https://padlet.com/hpr1/wie-ki-deutsch-und-fremdsprachenlehrkr-fte-unterst-tzen-kann-aouz58rmo08o1cfl
 - https://padlet.com/traugottboettinger/universal-design-for-learning-diklusiv-onz20ujzwcjptj23 - UDL dinklusiv mit Beispielen zu allen Bereichen
@@ -70,9 +72,11 @@ Im unteren Bereich des Newslettern werden wir auf Fortbildungen der Medienberatu
 - https://padlet.com/dettwilereducation/ki-im-unterricht-ora5emt9ceyumhze   
   Umfangreiches Update erhalten
 - [Pädagogischer Ratgeber zu digitalen Spielen.](https://spieleratgeber-nrw.de)
+- ["Frag doch ChatGPT!? Eine praxisorientierte Handreichung für den gekonnten Umgang mit KI-Sprachmodellen in der Hochschulbildung](https://www.profil.uni-muenchen.de/material_tools/handreichungen/index.html)
 - [Künstliche Intelligenz im Kunstunterricht? - Eine Unterrichtsidee](https://schulki.de/blog/kuenstliche-intelligenz-im-kunstunterricht-eine-unterrichtsidee)
 - [WIE KI-TOOLS DEN GESCHICHTSUNTERRICHT VERÄNDERN – EINE SUBJEKTIVE BESTANDSAUFNAHME](https://magazin.forumbd.de/lehren-und-lernen/wie-ki-tools-den-geschichtsunterricht-veraendern-eine-subjektive-bestandsaufnahme/)
 - [Eine KI-Handreichung: KI-Einsatz In Der Schule](https://www.fraustier.de/ki-handreichung-fuer-die-schule/)
+- Podcast [Wie vermitteln wir Schülern, wie KI funktioniert?](https://www.deutschlandfunk.de/ki-informatikunterricht-vermitteln-schuelern-wie-ki-funktioniert-dlf-fe340454-100.html)
 
 ## Fortbildungsübersicht
 
