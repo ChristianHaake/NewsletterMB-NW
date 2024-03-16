@@ -3,6 +3,8 @@
 Auf der folgenden Seite finden Sie Newsletter mit interessanten Links und Artikeln zur Schulen und Medienbildung. Die Newsletter zielen darauf ab, eine Brücke zwischen traditioneller Pädagogik und den innovativen Möglichkeiten der digitalen Medienbildung zu schlagen. Mit regelmäßigen Updates zu aktuellen Trends, bewährten Praktiken und inspirierenden Ideen hoffe ich, eine Gemeinschaft von Gleichgesinnten zu fördern, die sich für die Weiterentwicklung der Medienbildung einsetzt. Abonnieren Sie jetzt, um keine Ausgabe zu verpassen und ein Teil dieser aufregenden Reise zu sein!
 
 Abonnieren Sie den Newsletter auf [Github](https://github.com/ChristianHaake/NewsletterMB-NW) oder [Substack](https://medienberatungnordwest.substack.com/publish/posts)
+# 2024
+- [Newsletter 22](/2024-03-16_Newsletter%2022.md)
 
 # 2023
 - [Newsletter 21](/2023-12-29_Newsletter%2021.md)
